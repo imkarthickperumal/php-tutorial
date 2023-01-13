@@ -10,7 +10,8 @@
 <body>
     <?php 
     // echo 'PHP Tutorials';
-    include '1_Variables&Constants.php';
+    // include '1_Variables&Constants.php';
+    include '2_Strings.php';
     ?>
     
 </body>

@@ -1,7 +1,24 @@
 PHP Tutorials :
 1. Creating First PHP File - using echo 
+
 2. Variables & Constants
    1. Variables - can change the variable value & reassign 
                   using to call $ symbol
    2. constants - can't change variable value because this is constants 
                   using define keyword
+
+3. Strings 
+    1. Merge two strings using - . symbol
+    2. double quotation using -  variable name directly $name inside string.  
+    3. single quotation using -  variable name directly dosen't $name inside string using .symbol after the string ended quotation.
+    4. Highlighting character
+       1. single quotation - using directly inside - The "value" of single quotation
+       2. double quotation - using \"value\" this type of inside double quotation
+    5. In-build string methods 
+       1. Finding character index position like 0,1,2,3
+       2. strtolower - change lowercase the selected method
+       3. strtoupper - change uppercase the selected method
+       4. str_replace - replace selected method ('a','b',$alpha);
+                        1. select which you can chage the character like 'a'
+                        2. select which you can replace the character like 'b'
+                        3. select method like @variable name
