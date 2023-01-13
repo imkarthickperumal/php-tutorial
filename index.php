@@ -11,7 +11,8 @@
     <?php 
     // echo 'PHP Tutorials';
     // include '1_Variables&Constants.php';
-    include '2_Strings.php';
+    // include '2_Strings.php';
+    include '3_Numbers.php';
     ?>
     
 </body>
