@@ -1,2 +1,7 @@
 PHP Tutorials :
-1. Creating First PHP File
+1. Creating First PHP File - using echo 
+2. Variables & Constants
+   1. Variables - can change the variable value & reassign 
+                  using to call $ symbol
+   2. constants - can't change variable value because this is constants 
+                  using define keyword
