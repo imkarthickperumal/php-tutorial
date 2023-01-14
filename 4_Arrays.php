@@ -109,5 +109,32 @@
         print_r($movie_Actor);
         ?>
     </div>
+
+    <br>
+    <h3>PHP Multidimensional Arrays</h3>
+    <div>
+        <?php 
+        $movie_Details = [
+            ['moviename'=>'Thunivu', 'actor'=>'Thala', 'collection'=> '30cr'],
+            ['moviename'=>'Varisu', 'actor'=>'Thalapathy', 'collection'=> '28cr'],
+        ];
+        print_r($movie_Details);
+        ?>
+    </div>
+
+    <div>
+        <?php 
+        $movie_Details = [
+            ['moviename'=>'Veera simma reddy', 'actor'=>'Balayaa', 'collection'=> '50cr']];
+        print_r($movie_Details);
+        ?>
+    </div>
+
+    <div>
+        <?php 
+        $popped = array_pop($movie_Details);
+        print_r($popped);
+        ?>
+    </div>
 </body>
 </html>
