@@ -22,3 +22,5 @@ PHP Tutorials :
                         1. select which you can chage the character like 'a'
                         2. select which you can replace the character like 'b'
                         3. select method like @variable name
+
+5. Loops : Execute a block of code a set number of times

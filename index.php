@@ -13,7 +13,8 @@
     // include '1_Variables&Constants.php';
     // include '2_Strings.php';
     // include '3_Numbers.php';
-    include '4_Arrays.php';
+    // include '4_Arrays.php';
+    include '5_Loops.php';
     ?>
     
 </body>
