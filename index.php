@@ -18,7 +18,8 @@
     // include '6_Booleans&Comparisons.php';
     // include '7_ConditionalStatements.php';
     // include '8_Switch.php';
-    include '9_Continue&Break.php';
+    // include '9_Continue&Break.php';
+    include '10_Functions.php';
     ?>
     
 </body>
