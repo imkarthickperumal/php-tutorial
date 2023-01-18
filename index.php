@@ -16,7 +16,8 @@
     // include '4_Arrays.php';
     // include '5_Loops.php';
     // include '6_Booleans&Comparisons.php';
-    include '7_ConditionalStatements.php';
+    // include '7_ConditionalStatements.php';
+    include '8_Switch.php';
     ?>
     
 </body>
