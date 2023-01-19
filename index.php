@@ -20,7 +20,11 @@
     // include '8_Switch.php';
     // include '9_Continue&Break.php';
     // include '10_Functions.php';
-     include '11_VariableScope.php';
+    //  include '11_VariableScope.php';
+
+    // Include & Require 
+    require 'content.php';
+    // include ('content.php');
     ?>
     
 </body>
