@@ -23,8 +23,11 @@
     //  include '11_VariableScope.php';
 
     // Include & Require 
-    require 'content.php';
+    // require 'content.php';
+    // require 'content.php';
+    // require 'today.php';
     // include ('content.php');
+    include ('12_TernaryOperators.php');
     ?>
     
 </body>
