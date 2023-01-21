@@ -27,7 +27,8 @@
     // require 'content.php';
     // require 'today.php';
     // include ('content.php');
-    include ('12_TernaryOperators.php');
+    // include ('12_TernaryOperators.php');
+    include ('13_SuperGlobals.php');
     ?>
     
 </body>
